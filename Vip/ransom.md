@@ -32,7 +32,7 @@ a completely dedicated ransomware
 
 This ransomware is developing ...
 
-`Written in Python and open source with free updates ♻️ (Gift 50 Email and Password for Send Email, Report Story and Post and Live)`
+`Written in Golang and open source with free updates ♻️ (Gift 50 Email and Password for Send Email, Report Story and Post and Live)`
 
 `Payment method: Crypto (Usdt, btc, ltc, etc... and Git card)`
 
