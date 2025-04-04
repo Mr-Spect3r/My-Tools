@@ -27,5 +27,8 @@ To get the price and description, send a message to the Telegram admin:
 
 Buy: https://t.me/esfelorm
 
+# Example:
+
+<img src="https://github.com/user-attachments/assets/8ac9e3f5-394d-4b62-9f29-23e4eb43f425">
 
 </b>
