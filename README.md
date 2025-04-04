@@ -30,7 +30,24 @@ Here I put my free and vip tools list
 
 - <a href="https://github.com/Mr-Spect3r/Proxy-Scrapper">Proxy Scrapper
 
-- <a href="https://github.com/Mr-Spect3r/Screen-Locker">Screen Locker 
+- <a href="https://github.com/Mr-Spect3r/Screen-Locker">Screen Locker
+
+- <a href="https://github.com/esfelurm/Apis-Telegram"> Get Apis Telegram
+
+- <a href="https://github.com/esfelurm/SMTP-CHECKER"> Smtp Checker
+
+- <a href="https://github.com/esfelurm/cpanel-checker"> Cpanel Checker
+
+- <a href="https://github.com/esfelurm/AutoExploit"> Auto Exploit
+
+- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+
+- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+
+- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+
+
+
 
 
 
