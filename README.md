@@ -7,7 +7,7 @@ Here I put my free and vip tools list
 
 - <a href="https://github.com/Mr-Spect3r/My-Tools/blob/main/Vip/Telegram-Reporter.md"> Telegram Reporter Pro
 
-- Instagram Reporter
+- <a href="https://github.com/Mr-Spect3r/My-Tools/blob/main/Vip/Instagram-Reporter.md">Instagram Reporter
 
 - Instagram Cracker
 
