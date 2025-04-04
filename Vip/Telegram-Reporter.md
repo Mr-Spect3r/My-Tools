@@ -42,4 +42,4 @@ Buy: https://t.me/esfelorm
 
 # Video
 
-<a href="https://github.com/user-attachments/assets/69148de2-c056-4498-af07-2483513c2046"> Click to wath video
+<a href="https://github.com/user-attachments/assets/69148de2-c056-4498-af07-2483513c2046"> Click to see video
