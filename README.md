@@ -17,7 +17,7 @@
 
 # Free Tools
 
-- <a href="https://github.com/Mr-Spect3r/Bytecode2Py">Convert BtyteCode to Python
+- <a href="https://github.com/Mr-Spect3r/Bytecode2Py">Convert ByteCode to Python
 
 - <a href="https://github.com/esfelorm/Email-Bomber">Email Sender
 
