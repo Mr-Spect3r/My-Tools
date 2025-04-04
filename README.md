@@ -9,7 +9,7 @@ Here I put my free and vip tools list
 
 - <a href="https://github.com/Mr-Spect3r/My-Tools/blob/main/Vip/Instagram-Reporter.md">Instagram Reporter
 
-- Instagram Cracker
+- <a href="https://github.com/Mr-Spect3r/My-Tools/blob/main/Vip/Cracker.md">Instagram Cracker
 
 - Ransomware Windows
 
