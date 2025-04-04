@@ -7,6 +7,7 @@
 
 <img src="https://github.com/user-attachments/assets/3091e9ab-26b4-4fb7-87d8-dbc0905e9913">
 
+<b>
 
 ## Features: 
 
@@ -33,5 +34,7 @@
 `Payment method: Crypto (Usdt, btc, ltc, etc... and Git card)`
 
 To get the price and description, send a message to the Telegram admin:
+
+</b>
 
 Buy: https://t.me/esfelorm
