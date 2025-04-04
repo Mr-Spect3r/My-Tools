@@ -18,8 +18,8 @@
 
 `Payment method: Crypto (Usdt, btc, ltc, etc... and Git card)`
 
+To get the price and description, send a message to the Telegram admin:
 
-Buy: @Artax3rxes
-
+Buy: https://t.me/esfelorm
 
 </b>
