@@ -40,11 +40,11 @@ Here I put my free and vip tools list
 
 - <a href="https://github.com/esfelurm/AutoExploit"> Auto Exploit
 
-- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+- <a href="https://github.com/esfelurm/google-hacking"> Google Hacking
 
-- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+- <a href="https://github.com/esfelurm/android-ransomware"> Android Ransomware 
 
-- <a href="https://github.com/Mr-Spect3r/Screen-Locker">
+- <a href="https://github.com/esfelurm/AdjustableSpanner"> A versatile tool for Red Team members
 
 
 
